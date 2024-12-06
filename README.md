@@ -45,7 +45,7 @@ Run the Chatbot: Start the chatbot using Streamlit:
 streamlit run app.py
 Access the Chatbot: Open the browser and navigate to http://localhost:8501.
 
-**Project Structure**
+##Project Structure
 
 JU-Helpdesk-Chatbot/
 ├── app.py                 # Main Streamlit application
@@ -61,7 +61,7 @@ JU-Helpdesk-Chatbot/
 │   └── julogo.png         # University logo for UI
 └── README.md              # Project documentation
 
-**Technologies Used**
+##Technologies Used
 Streamlit: Interactive front-end interface.
 SentenceTransformer: Semantic embedding for text processing.
 FAISS: Nearest neighbor search for fast query matching.
@@ -69,11 +69,11 @@ FuzzyWuzzy: Fuzzy matching for handling typos.
 NLTK WordNet: Query expansion with synonyms.
 PostgreSQL: Relational database for data storage.
 
-**Contributing**
+##Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you would like to suggest an improvement.
 
-**License**
-This project is licensed under the **MIT* License. See the LICENSE file for more details.
+##License
+This project is licensed under the *MIT* License. See the LICENSE file for more details.
 
-**Developed by*: **Md. Mahin Hossain Munna**
-**Supervised by*: **Dr. M Shamim Kaiser**
+*Developed by*: **Md. Mahin Hossain Munna**
+*Supervised by*: **Dr. M Shamim Kaiser**
